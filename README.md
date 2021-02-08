@@ -1,7 +1,7 @@
 # freecodecampprojects
 
 ## Data Analysis with Python Projects IN PROGRESS
-[Mean-Variance-Standard Deviation Calculator](mean_var_std.py)
+[Mean-Variance-Standard Deviation Calculator](mean_var.py)
 
 
 [Demographic Data Analyzer](demographic_data.py)
