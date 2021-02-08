@@ -4,7 +4,7 @@
 [Mean-Variance-Standard Deviation Calculator](mean_var_std.py)
 
 
-[Demographic Data Analyzer](demographic_data)
+[Demographic Data Analyzer](demographic_data.py)
 
 
-[Medical Data Visualizer](medical_data_visualizer.py)
+[Medical Data Visualizer](medical_data.py)
