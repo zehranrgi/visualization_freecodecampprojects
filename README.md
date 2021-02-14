@@ -8,3 +8,5 @@
 
 
 [Medical Data Visualizer](/Freecodecamp/Medical%20Data%20Visualizer)
+
+[Page View Time Series Visualizer](Freecodecamp/Page View Time Series Visualizer/time_view_vis.py)
