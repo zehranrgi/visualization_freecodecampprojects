@@ -12,3 +12,6 @@
 [Page View Time Series Visualizer](/Freecodecamp//Page%20View%20Time%20Series%20Visualizer)
 
 ![image](https://user-images.githubusercontent.com/70450368/127764778-10633775-9b67-4318-aac3-220e4d946dab.png)
+
+![image](https://user-images.githubusercontent.com/70450368/127764800-5350f734-7b15-4c8f-8af8-487c0e723102.png)
+
